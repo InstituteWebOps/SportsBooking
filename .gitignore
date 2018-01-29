@@ -1,0 +1,3 @@
+uploads/*
+ldapauth.php
+config/db.php
